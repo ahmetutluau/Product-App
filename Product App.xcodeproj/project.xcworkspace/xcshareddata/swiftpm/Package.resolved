@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "be1a1acb283a702b99b630f586877ba02234b4cb",
+        "version" : "7.3.2"
+      }
+    },
+    {
+      "identity" : "swiftsoup",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/scinfu/SwiftSoup.git",
+      "state" : {
+        "revision" : "6778575285177365cbad3e5b8a72f2a20583cfec",
+        "version" : "2.4.3"
+      }
+    }
+  ],
+  "version" : 2
+}
